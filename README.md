@@ -4,7 +4,7 @@
 Please see the requirements below. When finished, please contact us with your submission and be prepared to review the code with us.
 
 # Objectives
-- Create either an iOS (must be in SwiftUI) or Android (must be in Kotlin) single-view app to display geographical information downloaded from a given URL. The URL will be provided to you. 
+- Create either an iOS (must be in SwiftUI) or Android (must be in Kotlin) single-view app to display geographical information downloaded from the given URL. https://github.com/elementengineering/Mobile-App-Coding-Challenge/blob/master/data/data.json 
 
 # Minimum Criteria
 - Display the data as annotations on an Apple/Google map view.
